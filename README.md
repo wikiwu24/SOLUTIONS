@@ -1,2 +1,2 @@
-# SQLSOLUTIONS
-Solutions for Database Assignments
+# SOLUTIONS
+Solutions for Training
